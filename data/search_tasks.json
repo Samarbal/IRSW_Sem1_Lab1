@@ -1,0 +1,26 @@
+[
+  {
+    "id": "Q1",
+    "need_ar": "طالب مبتدئ يريد موردا مجانيا باللغة العربية لتعلم بايثون.",
+    "need_en": "A beginner needs a free Arabic resource for learning Python.",
+    "expression": "topic_python AND level_beginner AND lang_ar AND access_free"
+  },
+  {
+    "id": "Q2",
+    "need_ar": "طالب يريد مقدمة مجانية في استرجاع المعلومات بالعربية أو الإنجليزية، مع استبعاد المستوى المتقدم.",
+    "need_en": "Find free IR resources in Arabic or English, excluding advanced material.",
+    "expression": "topic_ir AND (lang_ar OR lang_en) AND access_free AND NOT level_advanced"
+  },
+  {
+    "id": "Q3",
+    "need_ar": "طالب يريد دفاتر تطبيقية مجانية عن بايثون أو معالجة اللغة الطبيعية.",
+    "need_en": "Find free notebooks about Python or NLP.",
+    "expression": "(topic_python OR topic_nlp) AND type_notebook AND access_free"
+  },
+  {
+    "id": "Q4",
+    "need_ar": "طالب يريد موارد مجانية عن الويب، مع استبعاد الموارد المدفوعة.",
+    "need_en": "Find free web resources and exclude paid items.",
+    "expression": "topic_web AND access_free AND NOT access_paid"
+  }
+]

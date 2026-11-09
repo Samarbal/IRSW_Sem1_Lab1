@@ -1,0 +1,164 @@
+[
+  {
+    "id": "R01",
+    "title": "مدخل إلى بايثون",
+    "summary": "فيديو يشرح المتغيرات والشروط والحلقات للمبتدئين مع أمثلة قصيرة.",
+    "language": "ar",
+    "level": "beginner",
+    "access": "free",
+    "format": "video",
+    "topics": [
+      "python"
+    ],
+    "minutes": 35
+  },
+  {
+    "id": "R02",
+    "title": "Python Basics for University Students",
+    "summary": "A written tutorial on variables, conditions and loops, followed by short exercises.",
+    "language": "en",
+    "level": "beginner",
+    "access": "free",
+    "format": "tutorial",
+    "topics": [
+      "python"
+    ],
+    "minutes": 50
+  },
+  {
+    "id": "R03",
+    "title": "تحليل البيانات باستخدام بايثون",
+    "summary": "دفتر تطبيقي لتنظيف جدول بيانات وإنشاء ملخصات ورسوم بيانية.",
+    "language": "ar",
+    "level": "intermediate",
+    "access": "free",
+    "format": "notebook",
+    "topics": [
+      "python",
+      "data"
+    ],
+    "minutes": 75
+  },
+  {
+    "id": "R04",
+    "title": "Introduction to Information Retrieval",
+    "summary": "An introductory article explaining information needs, relevance and Boolean search.",
+    "language": "en",
+    "level": "beginner",
+    "access": "free",
+    "format": "article",
+    "topics": [
+      "ir"
+    ],
+    "minutes": 45
+  },
+  {
+    "id": "R05",
+    "title": "مقدمة في استرجاع المعلومات",
+    "summary": "شرح مرئي للحاجة المعلوماتية والاستعلام والوثيقة والصلة والبحث المنطقي.",
+    "language": "ar",
+    "level": "beginner",
+    "access": "free",
+    "format": "video",
+    "topics": [
+      "ir"
+    ],
+    "minutes": 40
+  },
+  {
+    "id": "R06",
+    "title": "Neural Ranking with Transformers",
+    "summary": "An advanced notebook comparing pretrained neural rankers for document retrieval.",
+    "language": "en",
+    "level": "advanced",
+    "access": "free",
+    "format": "notebook",
+    "topics": [
+      "ir",
+      "nlp"
+    ],
+    "minutes": 120
+  },
+  {
+    "id": "R07",
+    "title": "تطوير تطبيقات الويب بلارافيل",
+    "summary": "سلسلة تطبيقية لبناء تطبيق ويب بقواعد البيانات ونماذج الإدخال.",
+    "language": "ar",
+    "level": "intermediate",
+    "access": "paid",
+    "format": "video",
+    "topics": [
+      "web",
+      "php"
+    ],
+    "minutes": 180
+  },
+  {
+    "id": "R08",
+    "title": "Web Security Essentials",
+    "summary": "A beginner article on common web risks, secure input handling and authentication.",
+    "language": "en",
+    "level": "beginner",
+    "access": "free",
+    "format": "article",
+    "topics": [
+      "web",
+      "security"
+    ],
+    "minutes": 30
+  },
+  {
+    "id": "R09",
+    "title": "بايثون للمبتدئين تدريبات عملية",
+    "summary": "دفتر يتيح للطالب كتابة دوال بسيطة وحل تمارين مع ملاحظات توضيحية.",
+    "language": "ar",
+    "level": "beginner",
+    "access": "free",
+    "format": "notebook",
+    "topics": [
+      "python"
+    ],
+    "minutes": 60
+  },
+  {
+    "id": "R10",
+    "title": "Data Analysis with Python",
+    "summary": "An intermediate video course on data cleaning, grouping and visual exploration.",
+    "language": "en",
+    "level": "intermediate",
+    "access": "paid",
+    "format": "video",
+    "topics": [
+      "python",
+      "data"
+    ],
+    "minutes": 100
+  },
+  {
+    "id": "R11",
+    "title": "معالجة اللغة العربية باستخدام بايثون",
+    "summary": "دفتر تطبيقي يستكشف تقسيم النصوص العربية وبعض تحديات المعالجة اللغوية.",
+    "language": "ar",
+    "level": "intermediate",
+    "access": "free",
+    "format": "notebook",
+    "topics": [
+      "python",
+      "nlp"
+    ],
+    "minutes": 90
+  },
+  {
+    "id": "R12",
+    "title": "دليل المصطلحات البرمجية",
+    "summary": "مقال قصير يشرح أسماء لغات مثل بايثون وجافاسكربت، ولا يتضمن دروسا أو تدريبات.",
+    "language": "ar",
+    "level": "beginner",
+    "access": "free",
+    "format": "article",
+    "topics": [
+      "programming"
+    ],
+    "minutes": 10
+  }
+]
