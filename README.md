@@ -1,17 +1,35 @@
-# Student Lab 01 — مختبر الطالب
+# Lab 01 — Boolean Information Retrieval
 
-**Campus Learning Resource Finder / البحث في موارد التعلم الجامعية**
+**Course:** Information Retrieval Systems and Semantic Web  
+**Student:** Samar Mohammed Balousha
 
-1. Extract the ZIP. افتح الحزمة بعد فك الضغط.
-2. Open `START_HERE_AR_EN.html` in a browser for the bilingual guide and catalog. افتح الدليل في المتصفح.
-3. Open `Lab_01_Student_AR_EN.ipynb` in Jupyter Notebook/JupyterLab with Python 3.10 or later. افتح الدفتر في بيئة بايثون.
-4. Keep the `data` subfolder beside the notebook. حافظ على ترتيب الملفات بعد فك الضغط.
-5. Complete the TODO functions and query expressions, inspect outputs and answer `Worksheet_AR_EN.md`. أكمل الدوال والاستعلامات ثم ورقة العمل.
+## Overview
 
-If you use an instructor-approved hosted notebook, upload the three JSON files into a `data` folder beside the notebook. عند استخدام بيئة مستضافة، ارفع ملفات البيانات الثلاثة إلى مجلد `data`.
+This lab explores the fundamentals of Boolean Information Retrieval using a fictional dataset of 12 learning resources in Arabic and English.
 
-The lab code uses only Python's standard library. There are no network calls, model downloads or paid services. Jupyter itself must already be available. The HTML guide works offline. الشيفرة لا تحتاج مكتبات بحث إضافية أو اتصالا بالشبكة، ويعمل الدليل دون إنترنت.
+## Implementation
 
-The 12 resource records are fictional teaching data. They model a real search task but do not advertise actual courses. السجلات افتراضية وتحاكي مهمة بحث واقعية.
+- Built a Binary Incidence Matrix using terms and metadata tags.
+- Implemented Boolean operations: **AND, OR, NOT**.
+- Executed Boolean queries with different search conditions.
+- Explored vocabulary mismatch between Arabic and English.
+- Compared exact matching with resource relevance.
 
-This is a separate bilingual practical extension of Lecture 1. It keeps the five original slide documents as an optional warm-up. The original downloaded slides and lab ZIP remain unchanged.
+## Project Files
+
+- `Lab_01_Student.ipynb` — Implementation and execution results.
+- `Worksheet_AR_EN.md` — Answers and explanations.
+- `data/` — Resource catalog and search tasks.
+- `START_HERE_AR_EN.html` — Bilingual lab guide.
+
+## How to Run
+
+1. Open the repository in VS Code or JupyterLab.
+2. Open `Lab_01_Student.ipynb`.
+3. Run all cells in order.
+
+**Requirements:** Python 3 and Jupyter Notebook. No additional Python libraries are required.
+
+---
+
+*Academic lab assignment — Information Retrieval Systems and Semantic Web.*
